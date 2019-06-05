@@ -1,7 +1,8 @@
 ﻿//Bare legg inn en url PER linje.
 //
 #shuffle
-https://youtu.be/sTsVJ1PsnMs //kan kommentere her og
+https://soundcloud.com/divaonearth/chopped-and-screwed-doo-wop
+https://youtu.be/sTsVJ1PsnMs
 https://youtu.be/YZCjUmQhZDU
 https://youtu.be/_2quiyHfJQw
 https://youtu.be/fZXcuiBF08M
